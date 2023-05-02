@@ -292,10 +292,7 @@ p {
   }
 
   .text-box p {
-    padding: 0 20px;
-    color: #355f34;
-    position: absolute;
-    bottom: 10px;
+    display: none;
   }
 }
 
@@ -358,7 +355,5 @@ p {
   .f-container h2{
     padding-left: 12px;
   }
-  .f-card p {
-    display: none;
-  }
+ 
 }
